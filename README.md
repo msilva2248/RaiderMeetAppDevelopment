@@ -1,2 +1,1 @@
-# Student-Communication-app-with-firebase
-Example codes of student communication app with using firebase.
+Senior Capstone Project. Development of mobile application to meet new people.
